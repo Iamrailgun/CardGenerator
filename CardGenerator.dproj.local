@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.334,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\DataModule.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.914,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Settings.dfm=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Setting.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\DataModule.pas=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\DataUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.485,=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.336,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\DataUnit.dfm=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\MainUnit.pas=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\CardGenerator.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Setting.dfm=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.336,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\DataUnit.pas=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\CardGenerator.dproj=C:\Users\Roman\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.788,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\CardGenerator.pas=C:\Users\Roman\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.354,=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.657,=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Unit1.dfm=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\DataModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\DataModule.dfm=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\DataUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Setting.pas=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\MainUnit.dfm=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\CardGenerator.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.914,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Settings.pas=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Setting.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Unit1.pas=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\DataModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.753,=C:\Users\Roman\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.788,C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\CardGenerator.dfm=C:\Users\Roman\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.02.11 20:25:18.257,=C:\Users\Roman\Desktop\OTHER TRASH\Delphi projects\test\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
